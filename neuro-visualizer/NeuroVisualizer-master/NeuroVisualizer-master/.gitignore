@@ -1,0 +1,23 @@
+*.pt
+*.out
+*.h5
+*.csv
+# *.pdf
+*.dat
+*.pyc
+*.png
+saved_models/**
+trajectories/**
+data/**
+*.mat
+__pycache__
+archive/**
+todelete/**
+SLURM/**
+AE/.code-workspace
+.vscode/**
+zips/**
+scripts_cluster/**
+scripts_arc/**
+models_notnecessary/**
+scripts/data

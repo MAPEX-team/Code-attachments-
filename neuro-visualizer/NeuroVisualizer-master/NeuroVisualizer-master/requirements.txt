@@ -1,0 +1,11 @@
+h5py==3.8.0
+joblib==1.2.0
+matplotlib==3.3.2
+numpy==1.19.2
+pandas==1.1.3
+presets==0.1.3
+scikit_learn==1.2.2
+scipy==1.5.2
+torch==1.13.1+cu110
+umap==0.1.1
+umap_learn==0.5.3
